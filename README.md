@@ -1,6 +1,6 @@
 HTML + CSS + JavaScript + Node.js + Express + React + API
 
-**Use the HyperTerminal to enter the server by:
+### Use the HyperTerminal to enter the server by:
 
 - Moving to the directory where you cloned the project (Use cd)
 
